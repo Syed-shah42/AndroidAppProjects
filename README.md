@@ -1,7 +1,7 @@
 # AndroidAppProjects
 
 This repository contains the 7 mini projects I did in my Mobile Programming class in college.
-These are YouTube links to those projects.
+These are the YouTube links to the projects.
 
 Project 1:   https://youtu.be/CHPBJQq4NtA
 Project 2:   https://youtu.be/34BYmJMw48c
